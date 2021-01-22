@@ -16,7 +16,7 @@ console.log(meter);
 
 
 // ***Budget Calculator***
-function budgetcalculator(watch, phone, laptop) {
+function budgetCalculator(watch, phone, laptop) {
     watchCost = 50;
     phoneCost = 100;
     laptopCost = 500;
