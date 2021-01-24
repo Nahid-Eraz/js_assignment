@@ -1,3 +1,4 @@
+// https://github.com/Nahid-Eraz/js_assignment
 
 // ***Kilometer To Meter Converter***
 function kilometerToMeter(kilometer) {
@@ -36,7 +37,7 @@ function budgetCalculator(watch, phone, laptop) {
     }
 }
 
-var totalBudget = budgetcalculator(2, 2, 2); //Input your value in here.
+var totalBudget = budgetCalculator(2, 2, 2); //Input your value in here.
 console.log(totalBudget);
 
 
